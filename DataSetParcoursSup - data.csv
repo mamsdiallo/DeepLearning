@@ -1,0 +1,31 @@
+date,Formation,Nom,Ville,Spécialité,PositionLA,NbLA,NbPlaceGrp,days,deltaPos,deltaLA,Prob
+5/27/19,BTS/BTSA,­Institut Limayrac,Toulouse,SIO,37,44,12,16,0,0,27%
+5/27/19,BTS/BTSA,Lycée Henri Matisse,Cugnaux,SIO,48,106,7,16,0,0,7%
+5/27/19,BTS/BTSA,Lycée International Victor Hugo,Colomiers,SN,171,194,17,16,0,0,9%
+5/27/19,BTS/BTSA,Lycée Jules Fil,Carcassonne,SN,13,55,16,16,0,0,29%
+5/27/19,BTS/BTSA,Lycée Ozenne,Toulouse,SIO,53,260,28,16,0,0,11%
+5/28/19,BTS/BTSA,­Institut Limayrac,Toulouse,SIO,35,42,12,17,2,2,29%
+5/28/19,BTS/BTSA,Lycée Henri Matisse,Cugnaux,SIO,45,104,7,17,3,2,7%
+5/28/19,BTS/BTSA,Lycée International Victor Hugo,Colomiers,SN,163,189,17,17,8,5,9%
+5/28/19,BTS/BTSA,Lycée Jules Fil,Carcassonne,SN,9,49,16,17,4,6,33%
+5/28/19,BTS/BTSA,Lycée Ozenne,Toulouse,SIO,48,250,28,17,5,10,11%
+5/29/19,BTS/BTSA,­Institut Limayrac,Toulouse,SIO,33,40,12,18,2,2,30%
+5/29/19,BTS/BTSA,Lycée Henri Matisse,Cugnaux,SIO,42,100,7,18,3,4,7%
+5/29/19,BTS/BTSA,Lycée International Victor Hugo,Colomiers,SN,159,183,17,18,4,6,9%
+5/29/19,BTS/BTSA,Lycée Jules Fil,Carcassonne,SN,6,44,16,18,3,5,36%
+5/29/19,BTS/BTSA,Lycée Ozenne,Toulouse,SIO,48,245,28,18,0,5,11%
+5/30/19,BTS/BTSA,­Institut Limayrac,Toulouse,SIO,32,38,12,19,1,2,32%
+5/30/19,BTS/BTSA,Lycée Henri Matisse,Cugnaux,SIO,41,96,7,19,1,4,7%
+5/30/19,BTS/BTSA,Lycée International Victor Hugo,Colomiers,SN,152,176,17,19,7,7,10%
+5/30/19,BTS/BTSA,Lycée Jules Fil,Carcassonne,SN,5,40,16,19,1,4,40%
+5/30/19,BTS/BTSA,Lycée Ozenne,Toulouse,SIO,48,238,28,19,0,7,12%
+5/31/19,BTS/BTSA,­Institut Limayrac,Toulouse,SIO,31,37,12,20,1,1,32%
+5/31/19,BTS/BTSA,Lycée Henri Matisse,Cugnaux,SIO,39,94,7,20,2,2,7%
+5/31/19,BTS/BTSA,Lycée International Victor Hugo,Colomiers,SN,146,170,17,20,6,6,10%
+5/31/19,BTS/BTSA,Lycée Jules Fil,Carcassonne,SN,4,39,16,20,1,1,41%
+5/31/19,BTS/BTSA,Lycée Ozenne,Toulouse,SIO,46,236,28,20,2,2,12%
+6/1/19,BTS/BTSA,­Institut Limayrac,Toulouse,SIO,30,36,12,21,1,1,33%
+6/1/19,BTS/BTSA,Lycée Henri Matisse,Cugnaux,SIO,36,90,7,21,3,4,8%
+6/1/19,BTS/BTSA,Lycée International Victor Hugo,Colomiers,SN,142,166,17,21,4,4,10%
+6/1/19,BTS/BTSA,Lycée Jules Fil,Carcassonne,SN,2,36,16,21,2,3,44%
+6/1/19,BTS/BTSA,Lycée Ozenne,Toulouse,SIO,43,231,28,21,3,5,12%
